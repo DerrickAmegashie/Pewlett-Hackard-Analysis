@@ -26,13 +26,12 @@ Are there enough qualified, retirement-ready employees in departments to mentor 
 No. There are only 1549 employees ready.
 
 ### Additional Queries
-Sales Team Retirees
+
 <img width="364" alt="Screen Shot 2021-04-11 at 9 54 30 PM" src="https://user-images.githubusercontent.com/78401776/114336039-16de7780-9b1c-11eb-8943-b8423be27981.png">
 
 
 
 
-Sales and Development Team
 <img width="413" alt="Screen Shot 2021-04-11 at 9 54 38 PM" src="https://user-images.githubusercontent.com/78401776/114336052-1e058580-9b1c-11eb-8c3c-e1220fa630c8.png">
 
 
